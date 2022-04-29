@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/forgot-password", {data:[{_img:{}}],fetch:{},mutations:[]});
